@@ -5,7 +5,7 @@ NutriLive is developed under the theme of NeuroVision, a company focused on prom
 
 🧠 Features
 Food Category Recommendations: Suggests food categories based on user-input features.
-Machine Learning Approach: Utilizes the KNN algorithm for classification and prediction.
+Machine Learning Approach: Utilizes the KNN, Random Forest, XGBoost, SVM, Decision Tree Model to get the best for classification and prediction.
 Nutrient-Based Modeling: Analyzes food weight and nutrient content to provide recommendations.
 
 🔧 Technologies Used
