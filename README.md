@@ -21,3 +21,5 @@ Dataset: A custom dataset containing details about food items and their nutritio
 Input Features: Users input features such as food weight and nutrient content.
 KNN Algorithm: The system predicts the most suitable food category based on the input using the KNN model.
 Recommendations: The system suggests a food category that aligns with the user's dietary needs.
+
+This project was a group effort as part of our Machine Learning assignment. I would like to extend my gratitude to my teammates — Danish Aiman, Basharil Aiman, Shamir and Miza Syazwana — for their hard work and dedication throughout the process. A special thanks to our beloved lecturer, Dr Azuana Binti Ramli, for their guidance and feedback, which helped us bring NutriLive to life. This experience has been both educational and rewarding, giving us the opportunity to apply machine learning to a meaningful problem.
